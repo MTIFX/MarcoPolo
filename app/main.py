@@ -23,9 +23,11 @@ def Run():
     pass
 
 
-
-Initialize()
-Run()
+try:
+    Initialize()
+    Run()
+except: 
+    # error 
 
 
 
