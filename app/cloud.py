@@ -3,6 +3,9 @@
 import feed
 feed = feed.feed()
 
+import node
+node = node.node() # for checking status of node, whether up or down, true or false 
+
 
 
 class cloud():
