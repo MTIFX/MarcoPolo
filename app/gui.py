@@ -6,6 +6,16 @@ class gui():
     
     
     
+    def GetNodeStatus(self, node):
+        pass
+    
+    
+    
+    def GetOverallNodesStatus(self):
+        pass
+    
+    
+    
     def FeedStatus(self, node):
         pass
     
