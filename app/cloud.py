@@ -2,7 +2,7 @@
 
 '''
 The cloud is the end of the pipe. 
-feed -> cloud -> candlebuilder -> database -> api 
+node -> feed -> cloud -> candlebuilder -> database -> api 
 '''
 
 import feed
