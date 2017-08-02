@@ -1,5 +1,7 @@
 # engine
 
+import state
+state = state.state()
 
 
 class engine():
@@ -7,6 +9,7 @@ class engine():
     
     
     def Run(self):
+        state.Update()
         pass
     
     
