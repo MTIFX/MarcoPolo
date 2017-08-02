@@ -1,5 +1,8 @@
 # main 
 
+import state
+state = state.state()
+
 import cloud
 cloud = cloud.cloud()
 
