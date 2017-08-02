@@ -15,4 +15,13 @@ class history():
     
     
     
+    def GenerateReport(self):
+        # for error checking
+        pass
+    
+    
+    
+    
+        Initialize()
+    
     
