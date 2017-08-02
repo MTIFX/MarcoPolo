@@ -1,6 +1,7 @@
 # main 
 
-
+import engine
+engine = engine.engine()
 
 def Initialize():
     pass
@@ -8,6 +9,7 @@ def Initialize():
 
 
 def Run():
+    engine.Run()
     pass
 
 
