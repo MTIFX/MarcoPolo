@@ -1,3 +1,8 @@
+# node
+
+import cloud
+cloud = cloud.cloud()
+
 
 
 class node():
@@ -26,6 +31,11 @@ class node():
     
     
     
+    def Available(self):
+        pass
+
+
+
     
     
     
@@ -33,6 +43,13 @@ class node():
     
     
     
+13
+        pass
+    
+    
+    
+13
+        pass
     
     
     
