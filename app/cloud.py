@@ -1,5 +1,9 @@
 # cloud -> distributed 
 
+import feed
+feed = feed.feed()
+
+
 
 class cloud():
         
