@@ -18,9 +18,8 @@ class gui():
     
     def AddCoinFeed(self, node, coin):
         pass
-    
-    Contact GitHub API Training Shop Blog About
 
+  
     
     def RemoveCoinFeed(self, node, coin):
         pass
