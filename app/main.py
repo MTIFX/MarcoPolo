@@ -15,8 +15,9 @@ def Run():
 
 
 
-
+Initialize()
 Run()
+
 
 
 
