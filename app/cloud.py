@@ -1,5 +1,10 @@
 # cloud -> distributed 
 
+'''
+The cloud is the end of the pipe. 
+feed -> cloud -> candlebuilder -> database -> api 
+'''
+
 import feed
 feed = feed.feed()
 
