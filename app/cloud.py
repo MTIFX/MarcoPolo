@@ -19,6 +19,14 @@ class cloud():
     def Read(self):
         pass
     
+    
+    
+    def CheckConsistency(self):
+        # percent deviation 
+        pass
+    
+    
+    
 
     
     
