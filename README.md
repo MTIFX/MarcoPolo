@@ -1,23 +1,18 @@
 # MarcoPolo
 
 
-Marco Polo Cryptofeed
-
-
-
-Purpose
+<H3>Purpose</H3>
 
 Create a robust, self - contained, user friendly, aggregated from different brokers cryptocurrency feed. Set this up as an API to be easily usable. 
 
-Scope 
+<H3>Scope</H3>
 
 The scope should focus on these things: 
 Pipe in the data seamlessly (seamless transition from one broker to the next in case of outage)
 Set up user friendly API
 Candlebuilder
 
-
-Features
+<H3>Features</H3>
 
 API
 Candlebuilder
