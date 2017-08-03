@@ -5,7 +5,8 @@
 <li> Consolidate app into the deploy on Heroku folder </li>
 <li> Get Amazon EC2 instance, set up PostgreDB </li>
 <li> Plan and design PostgreDB schema </li>
-<li> Create Django GUI and work backwards </li>
+<li> Create Django GUI and work backwards 
+  <ul> Use Django Jet</ul> </li>
 
 
 <H3> Long term </H3> 
