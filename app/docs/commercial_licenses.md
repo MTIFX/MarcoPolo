@@ -1,4 +1,4 @@
 <H1> Commerically purchased </H1>
 
-Django Jet
-Heroku 
+<li> Django Jet </li>
+<li> Heroku </li> 
