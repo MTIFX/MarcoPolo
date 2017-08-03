@@ -6,7 +6,7 @@
 <li> Get Amazon EC2 instance, set up PostgreDB </li>
 <li> Plan and design PostgreDB schema </li>
 <li> Create Django GUI and work backwards 
-  <ul> Use Django Jet</ul> </li>
+<ul> <li> Use Django Jet </li> </ul> </li>
 
 
 <H3> Long term </H3> 
