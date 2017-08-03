@@ -10,6 +10,7 @@
 
 <H3> Long term </H3> 
 <li> Set up testing </li>
+<li> Expand documentation to include how to maintain API, including the version numbers </li>
 
 
 <H3> Django Admin Interface features </H3>
