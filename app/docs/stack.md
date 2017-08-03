@@ -2,7 +2,8 @@
 
 
 <H3> Falcon </H3>
-Falcon is a high-performance Python framework for building cloud APIs, smart proxies, and app backends. More information can be found here.
+Falcon is a high-performance Python framework for building cloud APIs, smart proxies, and app backends.
+
 
 <H3> Python </H3>
 
