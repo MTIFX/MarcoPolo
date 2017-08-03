@@ -15,6 +15,10 @@ A high-performance Python framework for building cloud APIs, smart proxies, and 
 
 The world's most advanced open source database.
 
+<H3> Django </H3>
+
+A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
 <H3> Heroku </H3>
 
 A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
