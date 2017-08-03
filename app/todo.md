@@ -8,6 +8,11 @@
 <li> Create Django GUI and work backwards 
 <ul> <li> Use Django Jet </li> </ul> </li>
 
+<H5> Core functionality </H5>
+<li> Create ability to write to single database from different feeds, if one feed goes down </li>
+<li> Check for discrepancy if something is off </li>
+<li> Organize schema and json writes </li>
+
 
 <H3> Long term </H3> 
 <li> Set up testing </li>
