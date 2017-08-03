@@ -29,14 +29,7 @@
 <H3> Feed API Data </H3>
 
 <li> Bittrex </li>
-<li> Poloniex </li>0
-gunicorn==19.6.MTIFX has committed since you started editin0
-psycopg2==2.6.2
-sqlalchemy==1.1.4
-bcrypt==1.1.1
-itsdangerous==0.24
-shortuuid==0.4.2
-cryptography==1.7.2
+<li> Poloniex </li>
 <li> Bitstamp </li>
 
 
