@@ -17,3 +17,11 @@
 <li> Add / remove coins from feed </li>
 
 
+<H3> Feed API Data </H3>
+
+<li> Bittrex </li>
+<li> Poloniex </li>
+<li> Bitstamp </li>
+
+
+
