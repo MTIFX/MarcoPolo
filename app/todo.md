@@ -3,7 +3,7 @@
 <H3> Short term </H3>
 
 <li> Consolidate app into the deploy on Heroku folder
-    <ul> When merging, make sure to update the requirements.txt file for any sort of dependencies to install on Heroku deployment </ul> </li>
+    <ul> <li> When merging, make sure to update the requirements.txt file for any sort of dependencies to install on Heroku deployment </li> </ul> </li>
   
 <li> Get Amazon EC2 instance, set up PostgreDB </li>
 <li> Plan and design PostgreDB schema </li>
@@ -31,7 +31,7 @@
 
 <li> Bittrex </li>
 <li> Poloniex </li>0
-gunicorn==19.6.0
+gunicorn==19.6.MTIFX has committed since you started editin0
 psycopg2==2.6.2
 sqlalchemy==1.1.4
 bcrypt==1.1.1
