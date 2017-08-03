@@ -17,6 +17,7 @@
 <H3> Django Admin Interface features </H3>
 <li> Check status of feed </li>
 <li> Add / remove coins from feed </li>
+<li> Visualize historical outages </li>
 
 
 <H3> Feed API Data </H3>
