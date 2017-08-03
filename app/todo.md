@@ -2,7 +2,9 @@
 
 <H3> Short term </H3>
 
-<li> Consolidate app into the deploy on Heroku folder </li>
+<li> Consolidate app into the deploy on Heroku folder
+    <ul> When merging, make sure to update the requirements.txt file for any sort of dependencies to install on Heroku deployment </ul> </li>
+  
 <li> Get Amazon EC2 instance, set up PostgreDB </li>
 <li> Plan and design PostgreDB schema </li>
 <li> Create Django GUI and work backwards 
@@ -28,7 +30,14 @@
 <H3> Feed API Data </H3>
 
 <li> Bittrex </li>
-<li> Poloniex </li>
+<li> Poloniex </li>0
+gunicorn==19.6.0
+psycopg2==2.6.2
+sqlalchemy==1.1.4
+bcrypt==1.1.1
+itsdangerous==0.24
+shortuuid==0.4.2
+cryptography==1.7.2
 <li> Bitstamp </li>
 
 
