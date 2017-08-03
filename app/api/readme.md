@@ -1,7 +1,7 @@
 <H1> Usage </H1>
 
 
-<H3> Create Heroku App <H3>
+<H3> Create Heroku App </H3>
 <li> Click on deploy Heroku app link from Falcon API folder </li>
 
 <H3> Linking Heroku App into code </H3>
