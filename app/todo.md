@@ -4,7 +4,6 @@
 
 <li> Consolidate app into the deploy on Heroku folder
     <ul> <li> When merging, make sure to update the requirements.txt file for any sort of dependencies to install on Heroku deployment </li> </ul> </li>
-  
 <li> Get Amazon EC2 instance, set up PostgreDB </li>
 <li> Plan and design PostgreDB schema </li>
 <li> Create Django GUI and work backwards 
